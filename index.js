@@ -105,7 +105,7 @@ genText.addEventListener("click", function() {
     "you are allowed to be both a masterpiece and a work in progress, simultaneously.",
     "if you can’t fly, then run. if you can’t run, then walk. if you can’t walk, then crawl. but whatever you do, you have to keep moving forward",
     "we must let go of the life we have planned, so as to accept the one that is waiting for us",
-    "I feel the sparks every time you kiss me.",
+    "go at your own pace. don't rush. just breathe, live, and let life unfold.",
     "Can I borrow a kiss? I promise Ill give it back.",
     "I have discovered that home too has a smell. You are my home.",
     "To the sun and moon, I love you.",
